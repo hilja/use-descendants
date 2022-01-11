@@ -56,5 +56,5 @@ export function useDescendant(props) {
     setIndex(context?.get(descendantId.current, props))
   })
 
-  return index
+  return { index, context }
 }
