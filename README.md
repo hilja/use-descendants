@@ -1,5 +1,7 @@
 # useDescendants ![npm bundle size](https://img.shields.io/bundlephobia/minzip/use-descendants@beta)
 
+> ℹ️ This is just a quick fork to fix a little issue, please use the original if you can
+
 > This is the README for beta releases. The "stable" (but still v0) release is here: https://github.com/pacocoursey/use-descendants/tree/v0
 
 useDescendants is a react hook for keeping track of descendant components and their relative indeces. It's based off the [@reach/descendants](https://www.npmjs.com/package/@reach/descendants) package, but faster and smaller.
